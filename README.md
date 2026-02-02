@@ -62,7 +62,7 @@ Me destaco en el diseño de **aplicaciones BaaS (Backend-as-a-Service)** y en la
 
   <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaquinStrusiat&locale=es&layout=donut&theme=github_dark" alt="Top Languages"/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaquinStrusiat&locale=es&theme=github_dark" alt="Top Contributions"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Federicoaranda&locale=es&theme=github_dark" alt="Top Contributions"/>
 
 </div>
 
