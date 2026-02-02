@@ -1,5 +1,4 @@
 # Federicoaranda
-https://github.com/Federicoaranda/Federicoaranda.git
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/>
 
@@ -12,15 +11,15 @@ https://github.com/Federicoaranda/Federicoaranda.git
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### About Me
-Soy desarrollador JavaScript full-stack con orientación a backend y perfil DevOps, enfocado en el diseño, desarrollo y despliegue de aplicaciones escalables, seguras y eficientes. Trabajo principalmente con Node.js, utilizando frameworks como Express y Fastify para la construcción de APIs y servicios web.
+
+Soy desarrollador full-stack con orientación a backend y perfil DevOps, enfocado en el diseño, desarrollo y despliegue de aplicaciones escalables, seguras y eficientes. Trabajo principalmente con Node.js, utilizando frameworks como Express para la construcción de APIs y servicios web.
 
 Cuento con experiencia en contenedorización y automatización mediante Docker y Kubernetes, y en entornos empresariales basados en Red Hat, incluyendo OpenShift. Tengo conocimientos en cloud computing con AWS, aplicando buenas prácticas de CI/CD, monitoreo y gestión de infraestructura.
 
 Además, poseo experiencia trabajando con bases de datos NoSQL como MongoDB, control de versiones con Git, y herramientas de apoyo al desarrollo y la operación como Postman, Jira y Azure DevOps, integrando el desarrollo de software con la operación para optimizar tiempos, calidad y confiabilidad.
 
 Tengo experiencia con bases de datos **relacionales** como **MySql** y **SQL Server**, Cuento con conocimientos en bases de datos **orientadas a grafos** (**Neo4j**, **ArangoDB**), ampliando las posibilidades de integración y optimización en arquitecturas distribuidas.
-
-Me destaco en el diseño de **aplicaciones BaaS (Backend-as-a-Service)** y en la creación de soluciones multiusuario escalables, desde CRUDs y sistemas distribuidos hasta backends para aplicaciones web modernas. Trabajo en **Windows** y **Linux**, y disfruto creando **arquitecturas modulares y mantenibles** que integran múltiples tecnologías de forma eficiente.
+Trabajo en **Windows** y **Linux**, y disfruto creando **arquitecturas modulares y mantenibles** que integran múltiples tecnologías de forma eficiente.
 
 ---
 ### 🛠️ Tecnologías que uso:
@@ -55,19 +54,6 @@ Me destaco en el diseño de **aplicaciones BaaS (Backend-as-a-Service)** y en la
 		- Backend: Node, Express, MongoDB.
 
 ---
-
-### 📊 Estadísticas:
-
-<div align="center">
-
-  <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaquinStrusiat&locale=es&layout=donut&theme=github_dark" alt="Top Languages"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Federicoaranda&locale=es&theme=github_dark" alt="Top Contributions"/>
-
-</div>
-
----
-
 ### 📫 Datos de contacto:
 
 <div align="center">
